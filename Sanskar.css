@@ -246,5 +246,7 @@ h3{
    .header img{
     height:27% ;
    }
-
+   .header{
+    height: 60vh;
+   }
 }
