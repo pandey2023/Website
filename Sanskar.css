@@ -169,7 +169,7 @@ h3{
 }
 .row .hero-btn{
     color: black;
-    width: 20%;
+    width: 80%;
     margin: auto;
     border: 1px solid black;
     border-radius: 10px;
@@ -218,6 +218,9 @@ h3{
         text-align:left ;
         z-index: 2;
     }
+    .header img {
+        width: 50%;
+    }
    nav .fa-solid{
     display: block;
     color: #fff;
@@ -235,5 +238,9 @@ h3{
    }
    .home{
     margin-left: 0;
+   }
+   .row .hero-btn{
+    width: 80%;
+    margin: 0;
    }
 }
