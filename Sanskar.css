@@ -4,8 +4,9 @@
     font-family: 'Montserrat', sans-serif;
 }
 .container-fluid{
-    border: 6px solid black;
+    border: 3px solid black;
     border-radius: 10px;
+    padding-bottom: 0;
 }
 hr{
     margin:.2rem;
@@ -30,13 +31,8 @@ hr{
     opacity: 0.3;
 }
 .navbar{
-    
    
-    padding: 1% 3%;
-    justify-content:space-between;
-    align-items: center;
    
-    color: white;
 }
 .home{
     margin-left: 15rem;
